@@ -60,7 +60,7 @@ global.psaweria = 'https://saweria.co/Rimuru233'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281332995497'
-global.nomorown = '6281944435802'
+global.nomorown = '6282261065144'
 global.namebot = 'FIN-BOT'
 global.nameown = 'FIN'
 
